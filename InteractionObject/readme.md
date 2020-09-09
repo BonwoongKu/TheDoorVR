@@ -16,18 +16,18 @@
 # InteractiveItem
 - 잡아서 들거나 던질 수 있는 오브젝트의 기본 클래스
 
-# InteractiveItemPieceOfMemory
+## InteractiveItemPieceOfMemory
 - 'InteractiveItem' 을 상속받아 세부기능을 구현한 아이템 오브젝트
 - 기억의조각
 
-# InteractivePieceOfMemoryHole
+## InteractivePieceOfMemoryHole
 - 상호작용 오브젝트의 최상위 클래스를 상속받아 'InteractiveItemPieceOfMemory'의 오브젝트와 상호작용
 - 기억의조각을 설치할 수 있는 구멍
 
 # InteractCommonButton
 - 버튼의 기본 기능을 구현한 클래스
 - 상속 후 버튼의 세부기능을 구현하여 사용
-# PictureDiscControlButton
+## PictureDiscControlButton
 - 'InteractCommonButton' 을 상속받아 버튼에 대한 세부기능을 구현한 오브젝트
 
 
