@@ -1,4 +1,5 @@
 # InteractBasicAbstract
+* [General info](#https://github.com/BonwoongKu/TheDoorVR/edit/master/InteractionObject/readme.md)
 - 상호작용 오브젝트의 최상위 추상화 클래스
 - 공통 데이터 및 기능을 소유
 
