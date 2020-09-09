@@ -25,12 +25,10 @@
 - 기억의조각을 설치할 수 있는 구멍
 
 # InteractCommonButton
-{
 - 버튼의 기본 기능을 구현한 클래스
 - 상속 후 버튼의 세부기능을 구현하여 사용
+
 ## PictureDiscControlButton
 - 'InteractCommonButton' 을 상속받아 버튼에 대한 세부기능을 구현한 오브젝트
-
-}
 
 
