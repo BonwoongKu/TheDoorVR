@@ -1,5 +1,5 @@
 # InteractBasicAbstract
-* [General info](#TheDoorVR/InteractionObject/InteractBasicAbstract)
+* [General info](#TheDoorVR/InteractionObject/InteractBasicAbstract.cs)
 - 상호작용 오브젝트의 최상위 추상화 클래스
 - 공통 데이터 및 기능을 소유
 
